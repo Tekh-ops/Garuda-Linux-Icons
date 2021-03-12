@@ -1,6 +1,6 @@
 [Icon Theme]
 Name=BeautyLine
-Inherits=breeze,breeze-dark,papirus,tela,adwaita,gnome,ubuntu-mono,Mint-X,elementary,hicolor
+Inherits=breeze,adwaita,ubuntu-mono,yaru,Mint-X,elementary,hicolor
 
 
 # Directory list
