@@ -1,11 +1,9 @@
-<svg version="1.1" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
- <defs>
-  <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
-        color:#232629;
-      }
-      .ColorScheme-NegativeText {
-        color:#da4453;
-      }</style>
- </defs>
- <path d="m2 2s-1 0-1 1v9c0 1 1 1 1 1h2l1 1h6l1-1h2s1 0.13 1-1v-9c0-1-1-1-1-1zm1 2h10v7h-2l-1 1h-4l-1-1h-2z" color="#727272" fill="#da4453"/>
+<svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M2 2C2 2 1 2 1 3V12C1 13 2 13 2 13H4L5 14H11L12 13H14C14 13 15 13.13 15 12V3C15 2 14 2 14 2H2ZM3 4H13V11H11L10 12H6L5 11H3V4Z" fill="url(#paint0_linear)"/>
+<defs>
+<linearGradient id="paint0_linear" x1="14.527" y1="2.34299" x2="10.3639" y2="14.5387" gradientUnits="userSpaceOnUse">
+<stop stop-color="#FE0F7C"/>
+<stop offset="1" stop-color="#DF0066"/>
+</linearGradient>
+</defs>
 </svg>
