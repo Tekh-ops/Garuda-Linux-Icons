@@ -20,3 +20,6 @@ Although I try to keep theme pack updated and add most distro's common icons But
 
 Enjoy it and if you have time and interest, help me to get it better ...
 
+## Screenshots 
+
+![](https://cdn.pling.com/img/c/8/a/4/b742be5089b7686336e31a0eab4ed0cac3c9afb7b8e79ac42b004aad1b7693abcecf.png)
